@@ -1,4 +1,4 @@
-# Movie-Recmmender
+# Movie-Recommender
 
 **Recommender Systems**:are **Machine learning** systems that help users discover new product and services.Recommender systems aim to predict user's interests and recommend product items that quite likely are interesting for them
 
